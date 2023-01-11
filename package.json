@@ -104,7 +104,7 @@
     "is-url": "^1.2.2",
     "joycon": "^2.2.5",
     "jquery": "^3.5.0",
-    "jsonwebtoken": "^8.0.0",
+    "jsonwebtoken": "^9.0.0",
     "jszip": "^3.2.2",
     "listr": "^0.14.3",
     "loaders.css": "^0.1.2",
